@@ -1,5 +1,5 @@
 # cafex-bdd
-Trying to learn the concepts of BDD. Implemented some BDD scenarios against the cafex java command-line application.
+Trying to learn the concepts of BDD. Implemented some BDD scenarios for the cafex java command-line application using Gherkin and Cucumber.
 
 ## Requirements
 * Git
